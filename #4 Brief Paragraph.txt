@@ -1,0 +1,19 @@
+--- BRIEF PARAGRAPH ---
+Selenium Automation
+- First of all, the gender radiobutton selection was hard to me. It was always thrown ElementClickInterceptedException.
+I've fixed this issue by used execute_script() and presence_of_element_located() methods
+- Also it was hard to tackle datepicker element. Actually I wanted to selected random year, month and days in this element.
+But it wasn't possible to select random year because of I cannot scroll the year section to up and down.
+So I used a static date
+- I couldn't handle the Subjects, State and City Listboxes due to I couldn't find these selectors. These selectors
+couldn't be tracked on devtools because they were gone when I tried to track them. You can also check this issue on your browser if you want.
+
+API Testing
+- I've never used API testing in my proffessional life. So I've searched about this on internet.
+- I've used "POSTMAN" to run tests, because of my computer is in our Company's Active Directory. 
+So I couldn't install JMeter or Apache A/B without Admin permission.
+
+Maybe I've failed in API testing stage, however I'm confident about Selenium Automation side.
+And also I'm open minded to learn new things to improve myself. Especially if they are necessariy to maintain my career.
+
+Best regards.

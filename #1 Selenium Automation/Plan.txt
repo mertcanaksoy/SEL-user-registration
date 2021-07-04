@@ -1,0 +1,9 @@
+--- PLAN AND STRATEGY ---
+1) Used https://demoqa.com/automation-practice-form website
+2) base, page and test directories has been created
+3) common base functions has been wrote in page_base.py document
+4) selectors and Automation logic has been wrote inside of demoqa_register_page.py in page directory. 
+If it was more than 1 page, they would be added to this directory.
+5) Test case has been wrote in test directory. It could be add more test cases
+on this directory if it will be necessary
+

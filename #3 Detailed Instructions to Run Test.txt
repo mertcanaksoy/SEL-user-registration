@@ -1,0 +1,13 @@
+--- DETAILED INSTRUCTIONS TO RUN TEST ---
+
+- Install Python if you didn't
+- Download Chrome driver if you didn't. Then extract to a simple directory
+- Open an IDE which supports Python (I've used PyCharm)
+- Open the test_demoqa.py document, then check the webdriver's path that called executable_path.
+It should be (executable_path="C:\Packs\chromedriver.exe") when you open it. That is my driver's path.
+Now you have to update this path to your webdriver's actual path.
+For example if we assume that your webdriver is in Desktop, path should be like (executable_path="C:\Desktop")
+- I've not delete virtual environment. So you can run rest_demoqa.py document directly.
+However if we assume that it was deleted somehow, don't worry. You just need to open
+your IDE's terminal, then run this script "pip install selenium"
+- After all, you can run test_demoqa.py

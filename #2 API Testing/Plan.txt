@@ -1,0 +1,6 @@
+Strategy and Plan
+- I've never used API testing in my proffessional life. So I've searched about this on internet.
+- I've used "POSTMAN" to run tests, because of my computer is in our Company's Active Directory. 
+So I couldn't install JMeter or Apache A/B without Admin permission.
+- Also I've used "https://postman-echo.com/post" request.
+- I've exported test result and test script to seperate JSON files.
