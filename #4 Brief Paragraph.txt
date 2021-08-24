@@ -10,10 +10,4 @@ couldn't be tracked on devtools because they were gone when I tried to track the
 
 API Testing
 - I've never used API testing in my proffessional life. So I've searched about this on internet.
-- I've used "POSTMAN" to run tests, because of my computer is in our Company's Active Directory. 
-So I couldn't install JMeter or Apache A/B without Admin permission.
-
-Maybe I've failed in API testing stage, however I'm confident about Selenium Automation side.
-And also I'm open minded to learn new things to improve myself. Especially if they are necessariy to maintain my career.
-
-Best regards.
+- I've used "POSTMAN" to run tests
